@@ -12,7 +12,5 @@ let popLogs=function(){
         });
         popLogs();
     });
-
-   
 }
 popLogs();
